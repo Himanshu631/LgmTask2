@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LgmTask2/static/css/main.b488d929.chunk.css",
+    "main.js": "/LgmTask2/static/js/main.5a778ed7.chunk.js",
+    "main.js.map": "/LgmTask2/static/js/main.5a778ed7.chunk.js.map",
+    "runtime-main.js": "/LgmTask2/static/js/runtime-main.8047b225.js",
+    "runtime-main.js.map": "/LgmTask2/static/js/runtime-main.8047b225.js.map",
+    "static/js/2.30863f73.chunk.js": "/LgmTask2/static/js/2.30863f73.chunk.js",
+    "static/js/2.30863f73.chunk.js.map": "/LgmTask2/static/js/2.30863f73.chunk.js.map",
+    "static/js/3.f58e554a.chunk.js": "/LgmTask2/static/js/3.f58e554a.chunk.js",
+    "static/js/3.f58e554a.chunk.js.map": "/LgmTask2/static/js/3.f58e554a.chunk.js.map",
+    "index.html": "/LgmTask2/index.html",
+    "static/css/main.b488d929.chunk.css.map": "/LgmTask2/static/css/main.b488d929.chunk.css.map",
+    "static/js/2.30863f73.chunk.js.LICENSE.txt": "/LgmTask2/static/js/2.30863f73.chunk.js.LICENSE.txt",
+    "static/media/logo1.20bbb15b.jpeg": "/LgmTask2/static/media/logo1.20bbb15b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8047b225.js",
+    "static/js/2.30863f73.chunk.js",
+    "static/css/main.b488d929.chunk.css",
+    "static/js/main.5a778ed7.chunk.js"
+  ]
+}
